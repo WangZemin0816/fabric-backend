@@ -1,347 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e0dd146-e57c-42cb-b5ac-804bb8a3da07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_26_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_27_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_6_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_ehcache_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caches/shiro-ehcache/.ehcache-diskstore.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caches/shiro-ehcache/login_user_tokens.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caches/shiro-ehcache/org%002eapache%002eshiro%002erealm%002etext%002e%0050roperties%0052ealm-0-accounts.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caches/shiro-ehcache/shiro-active%0053ession%0043ache.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-01-28.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-01-30.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-01-31.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-02-01.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-02-18.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-02-27.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-02-28.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-03-01.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-03-03.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-03-04.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.error.2019-03-05.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/admin-server.log.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/FabricApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/controller/PDesignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/controller/PatternController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/controller/TDesignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/controller/TextureController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/controller/validated/UploadForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/IBaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/IPDesignDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/IPatternDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/IResourceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/IRoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/ITDesignDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/ITDivisionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/ITOriginDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/dao/IUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/EFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/PDesign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/TDesign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/TDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/TOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/IBaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/IEFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/IPDesignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/IPatternService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/ITDesignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/ITDivisionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/ITOriginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/impl/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/impl/EFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/impl/PDesignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/impl/PatternService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/impl/TDesignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/impl/TDivisionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/service/impl/TOriginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/ValidationMessages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/ValidationMessages_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/ValidationMessages_zh_CN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/messages_zh_CN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/2.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/3.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/4.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/5.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/7.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/8.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/pattern/8c922f6a-10fc-46c3-896b-cc43e98cd6d7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/81b17e31-0ed7-454b-b37f-25b8452cced0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal2.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal3.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal4.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal5.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal6.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal7.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/normal8.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/special1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/division/special2.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/09b3eb32-482f-4199-8f1d-d5d675d050e7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal2.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal3.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal4.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal5.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal6.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal7.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/normal8.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/special1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/texture/origin/special2.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/image/屏幕截图(1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/0/mapping1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/0/mapping2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/0/mapping3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/0/mapping4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/0/material.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/0/model.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/0/model.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/1/mapping1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/1/mapping2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/1/material.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/1/model.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/1/model.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/mapping1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/mapping2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/mapping3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/mapping4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/mapping5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/material.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/model.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/2/model.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/3/mapping1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/3/mapping2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/3/material.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/3/model.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/model3D/3/model.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wumu/fabric/FabricApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wumu/fabric/RestTest.java" afterDir="false" />
-      <change beforePath="D:/.editorconfig" beforeDir="false" />
-      <change beforePath="D:/.gitignore" beforeDir="false" />
-      <change beforePath="D:/README.md" beforeDir="false" />
-      <change beforePath="D:/angular.json" beforeDir="false" />
-      <change beforePath="D:/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="D:/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="D:/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="D:/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="D:/package-lock.json" beforeDir="false" />
-      <change beforePath="D:/package.json" beforeDir="false" />
-      <change beforePath="D:/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/i18n-translate.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/base.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/efile.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/login-form.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/pattern.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/person.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/resource.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/role.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/torigin.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/model/user.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/commons.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/copyright/copyright.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/copyright/copyright.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/copyright/copyright.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/footer/footer.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/footer/footer.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/footer/footer.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-language/header-language.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-language/header-language.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-language/header-language.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-router/header-router.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-router/header-router.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-router/header-router.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-user/header-user.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-user/header-user.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header-user/header-user.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/header/header.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/image-modal/image-modal.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/image-modal/image-modal.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/image-modal/image-modal.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/not-found/not-found.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/not-found/not-found.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/not-found/not-found.component.spec.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/not-found/not-found.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/title/title.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/title/title.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/title/title.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/unauthorized/unauthorized.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/unauthorized/unauthorized.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/unauthorized/unauthorized.component.spec.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/commons/unauthorized/unauthorized.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login-form/login-form.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login-form/login-form.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login-form/login-form.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login-routing.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/login/login.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/manage-routing.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/manage.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/manage.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/manage.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/manage.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/user/user.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/user/user.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/user/user.component.spec.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/manage/user/user.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/texture/texture-routing.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/texture/texture.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/texture/texture.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/texture/texture.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/texture/texture.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/upload/upload-routing.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/upload/upload.component.css" beforeDir="false" />
-      <change beforePath="D:/src/app/module/upload/upload.component.html" beforeDir="false" />
-      <change beforePath="D:/src/app/module/upload/upload.component.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/module/upload/upload.module.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/service/file-base.service.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/service/file-pattern.service.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/service/file-texture.service.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/service/http-request.service.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/service/user-login.service.ts" beforeDir="false" />
-      <change beforePath="D:/src/app/service/user-manage.service.ts" beforeDir="false" />
-      <change beforePath="D:/src/assets/css/checkbox.css" beforeDir="false" />
-      <change beforePath="D:/src/assets/i18n/en_US.json" beforeDir="false" />
-      <change beforePath="D:/src/assets/i18n/zh_CN.json" beforeDir="false" />
-      <change beforePath="D:/src/assets/images/current_user.png" beforeDir="false" />
-      <change beforePath="D:/src/assets/images/login_bg.jpg" beforeDir="false" />
-      <change beforePath="D:/src/assets/url-config.json" beforeDir="false" />
-      <change beforePath="D:/src/browserslist" beforeDir="false" />
-      <change beforePath="D:/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="D:/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="D:/src/favicon.ico" beforeDir="false" />
-      <change beforePath="D:/src/index.html" beforeDir="false" />
-      <change beforePath="D:/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="D:/src/main.ts" beforeDir="false" />
-      <change beforePath="D:/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="D:/src/styles.css" beforeDir="false" />
-      <change beforePath="D:/src/test.ts" beforeDir="false" />
-      <change beforePath="D:/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="D:/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="D:/src/tslint.json" beforeDir="false" />
-      <change beforePath="D:/tsconfig.json" beforeDir="false" />
-      <change beforePath="D:/tslint.json" beforeDir="false" />
-      <change beforePath="D:/织物模拟展示系统前端初次提交.patch" beforeDir="false" />
+    <list default="true" id="8e0dd146-e57c-42cb-b5ac-804bb8a3da07" name="Default Changelist" comment="111">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/FabricApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wumu/fabric/FabricApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -354,17 +17,54 @@
     <session id="-1720596676">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="50" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wumu/fabric/FabricApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/wumu/fabric/FabricApplication.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -386,8 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -395,19 +93,55 @@
               <item name="fabric-backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="fabric-backend" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fabric-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fabric" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fabric-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fabric-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553568568249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553571210614" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -442,17 +176,20 @@
       <updated>1553567992897</updated>
       <workItem from="1553567996104" duration="158000" />
       <workItem from="1553568299810" duration="25000" />
-      <workItem from="1553568340381" duration="1039000" />
+      <workItem from="1553568340381" duration="1273000" />
+      <workItem from="1553569694003" duration="71000" />
+      <workItem from="1553571028494" duration="176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1222000" />
+    <option name="totallyTimeSpent" value="1703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -490,6 +227,25 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:/" />
+    </ignored-roots>
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wumu/fabric/FabricApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
