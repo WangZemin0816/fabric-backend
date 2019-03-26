@@ -20,4 +20,8 @@ public abstract class BaseService<T extends BaseEntity>
     public T save(T t){
         return getDao().save(t);
     }
+
+    public Optional<T> findById(Long id){
+        return getDao().findById(id);
+    }
 }

@@ -52,4 +52,9 @@ public class TextureController {
 
         return "Success!";
     }
+    @RequestMapping("texture/get")
+    public TOrigin getById (long id) throws IOException {
+        return tOriginService.findById(id).get();
+    }
+
 }

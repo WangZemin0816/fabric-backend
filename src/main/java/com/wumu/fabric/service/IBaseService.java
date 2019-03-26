@@ -11,4 +11,6 @@ public interface IBaseService<T extends BaseEntity> {
     Page<T> findAll(Pageable pageable);
 
     T save(T t);
+
+    Optional<T> findById(Long id);
 }
