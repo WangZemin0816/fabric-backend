@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author wangzemin
  * @since 2019-01-27
  */
-/////////////////////////////////、、、、、、、、、、、、
 @SpringBootApplication
 public class FabricApplication {
 
