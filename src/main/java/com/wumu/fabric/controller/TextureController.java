@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
+import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 @RestController
@@ -53,8 +54,10 @@ public class TextureController {
         return "Success!";
     }
     @RequestMapping("texture/get")
-    public TOrigin getById (long id) throws IOException {
+    public TOrigin getById (HttpServletRequest httpServletRequest, long id) throws IOException {
+        httpServletRequest.getSession();
         return tOriginService.findById(id).get();
     }
+
 
 }
