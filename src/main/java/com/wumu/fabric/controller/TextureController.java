@@ -55,7 +55,6 @@ public class TextureController {
     }
     @RequestMapping("texture/get")
     public TOrigin getById (HttpServletRequest httpServletRequest, long id) throws IOException {
-        httpServletRequest.getSession();
         return tOriginService.findById(id).get();
     }
 
